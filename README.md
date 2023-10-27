@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aanchal Agrawal
-- 👀 I’m interested in designing new websites
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with an innovative team with learn and grow together
 - 📫 How to reach me agrawalaanchal78@gmail.com
 
